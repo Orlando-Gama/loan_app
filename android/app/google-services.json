@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848282982252",
+    "project_id": "rep-sync",
+    "storage_bucket": "rep-sync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848282982252:android:7b601b046f91af13964549",
+        "android_client_info": {
+          "package_name": "com.example.repsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_8zgTJOmuYFkbZ-dnB-9OmJ5C4zDWxb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848282982252:android:5435fa40ea9ff64d964549",
+        "android_client_info": {
+          "package_name": "com.example.tadza_loan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_8zgTJOmuYFkbZ-dnB-9OmJ5C4zDWxb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
